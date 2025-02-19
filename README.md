@@ -37,7 +37,7 @@ This project uses a **Convolutional Neural Network (CNN)** to identify plant dis
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Or4cle404/Plant-Disease-Detectiongit
+git clone https://github.com/Or4cle404/Plant-Disease-Detection.git
 cd plant-disease-detection
 ```
 
