@@ -13,7 +13,6 @@ This project uses a **Convolutional Neural Network (CNN)** to identify plant dis
 - **TensorFlow/Keras**: To build and train the CNN model for plant disease classification.
 - **OpenCV**: For image preprocessing (resizing, color conversion, and normalization).
 - **Streamlit**: To create an interactive web application for disease detection.
-- **Flask**: Backend server to manage requests between Dialogflow and the model.
 - **NumPy**: For numerical operations and array manipulations.
 
 ---
@@ -23,7 +22,6 @@ This project uses a **Convolutional Neural Network (CNN)** to identify plant dis
 ✅ Identify diseases in plants from uploaded images.<br>
 ✅ Supports multiple plants such as Apple, Corn, Potato, and Tomato.<br>
 ✅ Provides real-time, accurate disease classification.<br>
-✅ Promotes sustainable farming practices by offering quick diagnoses.<br>
 ✅ User-friendly interface built with Streamlit.
 
 ---
@@ -36,33 +34,13 @@ This project uses a **Convolutional Neural Network (CNN)** to identify plant dis
 
 ---
 
-## 🔧 Setup and Installation
-
-1. **Clone the repository:**
+**Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/Or4cle404/Plant-Disease-Detectiongit
 cd plant-disease-detection
 ```
 
-2. **Create a virtual environment:**
-
-```bash
-python -m venv env
-source env/bin/activate  # For Linux/macOS
-env\Scripts\activate    # For Windows
-```
-
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the Streamlit app:**
-
-```bash
-streamlit run app.py
 ```
 
 ---
@@ -85,31 +63,6 @@ The model supports a wide range of plant diseases, including:
 - Potato___Early_blight
 - Tomato___Late_blight
 - And many more!
-
----
-
-## 🏗️ Project Structure
-
-```
-│
-├── app.py                # Streamlit web app
-├── model_predict.py       # Model prediction logic
-├── requirements.txt       # Project dependencies
-├── /images                # Sample images for testing
-└── /model                 # Saved Keras model
-```
-
----
-
-## 🌿 Contribution
-
-Contributions are always welcome! If you'd like to add new features or improve the model accuracy, feel free to open a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
