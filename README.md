@@ -41,8 +41,6 @@ git clone https://github.com/Or4cle404/Plant-Disease-Detectiongit
 cd plant-disease-detection
 ```
 
-```
-
 ---
 
 ## 🖼️ Usage
