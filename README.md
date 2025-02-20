@@ -4,7 +4,7 @@ A Deep Learning-based web application to detect and classify plant leaf diseases
 
 ## Overview
 
-This project uses a **Convolutional Neural Network (CNN)** to identify plant diseases from leaf images. The model predicts the type of disease or whether the plant is healthy, helping farmers and agricultural experts take timely action.
+This project uses a **Convolutional Neural Network (CNN)** to identify plant diseases from leaf images. The model predicts the type of disease, helping farmers and agricultural experts take timely action.
 
 ---
 
